@@ -13,6 +13,7 @@
             "email": "avorreiter@schueler.hakzell.at"
         }
     ],
+    "verisn": "1.1.0",
     "minimum-stability": "dev",
     "require": {}
 }
